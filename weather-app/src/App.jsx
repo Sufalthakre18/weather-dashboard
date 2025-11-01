@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import './App.css'
+import './index.css'
 
 function App() {
  
   return (
    
-    <h1 className=' '>Live fast Die Young</h1>
+    <h1 className='w-45 text-red-500'>Live fast Die Young</h1>
   
   )
 }
